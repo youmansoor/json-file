@@ -1,0 +1,62 @@
+{
+  "thumbnails": [
+    "Thumnails/1.jpg",
+    "Thumnails/2.jpg",
+    "Thumnails/3.jpg",
+    "Thumnails/4.jpg",
+    "Thumnails/5.jpg",
+    "Thumnails/6.jpg",
+    "Thumnails/7.jpg",
+    "Thumnails/8.jpg",
+    "Thumnails/9.jpg",
+    "Thumnails/10.jpeg",
+    "Thumnails/11.jpg",
+    "Thumnails/12.jpg",
+    "Thumnails/13.jpg",
+    "Thumnails/14.jpg",
+    "Thumnails/15.jpg",
+    "Thumnails/16.jpg",
+    "Thumnails/17.jpg",
+    "Thumnails/18.jpg",
+    "Thumnails/19.jpg"
+  ],
+  "logos": [
+    "logos/1.png",
+    "logos/2.jpg",
+    "logos/3.png",
+    "logos/4.png",
+    "logos/5.png",
+    "logos/6.png",
+    "logos/7.png",
+    "logos/8.png"
+  ],
+  "banners": [
+    "banners/1.png",
+    "banners/2.png",
+    "banners/3.png",
+    "banners/4.png",
+    "banners/5.png",
+    "banners/6.png",
+    "banners/7.png",
+    "banners/8.png"
+  ],
+  "emotes": [
+    "emotes/1.png",
+    "emotes/2.png",
+    "emotes/3.png",
+    "emotes/4.png",
+    "emotes/5.png",
+    "emotes/6.png",
+    "emotes/7.png",
+    "emotes/8.png",
+    "emotes/9.png",
+    "emotes/10.png"
+  ],
+  "badges": [
+    "badges/1.png",
+    "badges/2.png",
+    "badges/3.png",
+    "badges/4.png",
+    "badges/6.png"
+  ]
+}

@@ -2,41 +2,41 @@
     {
         "id" : 1,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/1.png"
     },
     {
         "id" : 2,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/2.png"
     },
     {
         "id" : 3,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/3.png"
     },
     {
         "id" : 4,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/4.png"
     },
     {
         "id" : 5,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/5.png"
     },
     {
         "id" : 6,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/6.png"
     },
     {
         "id" : 7,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/7.png"
     },
     {
         "id" : 8,
         "title": "banner",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/youmansoor/json-file/master/banners/8.png"
     }
 ]
